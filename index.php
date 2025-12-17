@@ -1,2 +1,2 @@
 <?php
-require('./pages/inicio.php');
+require('./views/inicio.php');
